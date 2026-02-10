@@ -41,7 +41,7 @@ Toolbox
 
 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmohy1999&" alt="codlizzy" /></p>
-
+![mohamed mohy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmohy1999&show_icons=true&theme=radical)
 ---
 
 Let’s Build Something
