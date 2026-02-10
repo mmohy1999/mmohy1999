@@ -39,32 +39,8 @@ Toolbox
 
 ---
 
-Selected Work
-- Gazzer: Marketplace app with product browsing, cart, and order tracking. Links: https://play.google.com/store/apps/details?id=com.refilex.gazzer.delivery | https://apps.apple.com/eg/app/gazzer-your-local-marketplace/id6670802440
-- Smo Shat: Live social app with audio rooms, chat, reels, and gifting. Links: https://play.google.com/store/apps/details?id=com.smolive.chat | https://testflight.apple.com/join/awdNFVrJ
-- Gala Live: Live social app with audio rooms and real-time messaging. Link: https://play.google.com/store/apps/details?id=com.galalive.chat
-- VR Furniture: AR/VR-style 3D furniture preview app. Links: https://github.com/mmohy1999/flutter_vr_app/ | https://drive.google.com/file/d/1Kn87UIxYjjTAlUME51SiiXzsM050QpZt/view?usp=sharing
-- islamina: Quran, prayer times, and daily reminders. Link: https://drive.google.com/file/d/1hLJAZ535uIkInaL4R0r1OGRZRFFBhaDV/view?usp=sharing
-- Freedom Chat: Real-time chat with Firebase auth and media sharing. Link: https://github.com/mmohy1999/chat_app
-- AI Generator: AI toolkit for chat, code, images, translation, and editing. Link: https://github.com/mmohy1999/ai-generator
-- Tic Tac Toe: Online and local multiplayer with social login. Link: https://github.com/mmohy1999/tic-tac-toe/tree/main
-- CV Maker: CV builder with PDF generation and sharing. Links: https://github.com/mmohy1999/portfolio_pdf | https://drive.google.com/file/d/1oIYkkuxyOjCJ1o3WLD-kRA5SyiqiHWzN/view?usp=sharing
-- Location App: Coordinates, addresses, and map link parsing. Links: https://github.com/mmohy1999/located_app | https://drive.google.com/file/d/1LxKbYI1D_BqgJoOl7E3VCuqDFQIAfczj/view?usp=sharing
-
----
-
-Experience Snapshot
-- AMC — Part-time Flutter Developer (07/2025 - Present)
-- learnos — Flutter Developer (03/2025 - 09/2025)
-- Refilex — Flutter Developer (12/2024 - 03/2025)
-- BayanatZ — Flutter Intern (09/2024 - 12/2025)
-
----
-
 GitHub Stats
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mmohy1999&show_icons=true&hide_title=true&hide=issues&count_private=true" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codlizzy&" alt="codlizzy" /></p>
 <p align="center">
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohy1999&layout=compact" />
 </p>
